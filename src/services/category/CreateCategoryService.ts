@@ -20,7 +20,10 @@ class CreateCategoryService {
         name: true,
       }
     })
+
+
     return category;
+
   }
 }
 
